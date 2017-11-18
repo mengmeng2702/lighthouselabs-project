@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel='stylesheet' href='styles.css'>
+        <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower|Open+Sans:400,700,800i|Vollkorn" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <div>
+                <nav>
+                    <h4 class='headeritem1'>Mengdi Liu</h4>
+                    <div class='headeritem2'>
+                       
+                        <ul>
+                            <li> <a class='linkable_nonbutton' href='/sbout'>About</a> </li>
+                      
+                            <li> <a class='linkable_nonbutton' href='/skills'>Skills</a></li>
+                      
+                       
+                            <li> <a class='linkable_nonbutton' href='/experience'>Experience</a> </li>
+                       
+                     
+                            <li> <a class='linkable_nonbutton' href='/contact'>Contact</a> </li>
+                        </ul>
+                        
+                    </div> 
+                </nav>
+            </div>
+            
+            <div class='headersection2'>
+                <section class='namepart'>
+                    <h2>Mengdi Liu</h2>
+                    <h4>QA Analyst</h4>
+                    <button style='download'>DOWNLOAD RESUME</button>
+                </section>
+         
+                <div class='picturepart'>
+                    <img src="/images/IMG_0133.jpg" width=200>
+                </div>
+            </div>
+        </header>
+        
+        <!-- updated header html for now before the flexbox cool stuff tho... wait for it!-->
+        
+        
+        <div>
+            <section id='about'>
+                <h1>About</h1>
+                <h5>I love being a Risk Taker</h5>
+                    <p>
+                    Sometime about me ...
+                    <!-- add stuff here-->
+                    </p>
+                
+                    <p>
+                    something more ....
+                    </p>
+            </section>
+        </div>
+        
+        <div class='outofskillsall'>
+                <h1>Skills</h1>
+            <section class='skillsall'>
+                <div class="skill-list-item">
+                    <p class='skillnamepart'>Analytics</p>
+                    <p class='meterpart'><meter min='0' max='100' value='60'></meter> 60% </p>
+                </div>
+            
+            
+                <div class="skill-list-item">
+                    <p class='skillnamepart'>Collaborate</p>
+                    <p class='meterpart'><meter min='0' max='100' value='80'></meter> 80%</p>
+                </div>
+            
+                <div class="skill-list-item">
+                    <p class='skillnamepart'>!!!123</p>
+                    <p class='meterpart'><meter min='0' max='100' value='50'></meter>50%</p>
+                </div>
+                
+                    
+                <div class="skill-list-item">
+                    <p class='skillnamepart'>!!!123343</p>
+                    <p class='meterpart'><meter min='0' max='100' value='90'></meter>90%</p>
+                </div>
+            
+            </section>
+        </div>
+        
+        
+        <div>
+            <section id='experience'>
+            
+            <h1>Experience</h1>
+            <h4>2017.09 - 2017.11 QA Analyst</h4>
+                <p>Morneau Shepell</p>
+            <h4>2016.12 - 2017.02 IELTS Instructor</h4>
+                <p>Company name alksjdlkfsaldjfkasjlfjdsakfjlasjdljakldhg;ak ksadfklahskfhjldhfkashdfjkackadk jafs</p>
+            <h4>2015.08 - 2016.....</h4>
+                <p>asdfsafsadfasfdfsafasdf</p>
+            </section>
+        </div>
+        
+        <div>
+            <section id='contact'>
+                <h1>Contact</h1>
+                <div>
+                    <a href='mailto:liumengdi923@gmail.com'>Email: liumengdi923@gmail.com</a>
+                </div>
+                
+                <div> 
+                    <a href='tel:6474046710'>Cell phone: 647-404-6710</a>
+                </div>
+                
+                <div>
+                    <p>Find me at <a href='https://www.linkedin.com/feed/?trk=' target='_blank'>Linkedin</a></p>
+                </div>
+            </section>
+        </div>
+            
+        <footer id='footer'>
+            <div>
+                <div>Mengdi Liu</div>
+                
+                <h5>QA Analyst</h5>
+                
+                <div>
+                    <button type='submit'> Submit</button>
+                </div>
+                
+                <div>
+                    <a href='mailto:liumengdi923@gmail.com'>Email: liumengdi923@gmail.com</a>
+                </div>
+                
+                <div> 
+                    <a href='tel:6474046710'>Cell phone: 647-404-6710</a>
+                </div>
+                
+                <div>
+                    <p>Find me at <a href='https://www.linkedin.com/feed/?trk=' target='_blank'>Linkedin</a></p>
+                </div>
+                
+                <a href='#about'>About</a>
+                <a href='#skills'>Skills</a>
+                <a href='#experience'>Experience</a>
+                
+                <a href='asdfasdfasdfaspath!!!!' download>Download Resume</a>
+            </div>
+        </footer>
+                
+    </body>
+</html>
